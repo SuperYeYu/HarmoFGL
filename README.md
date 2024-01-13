@@ -1,1 +1,1 @@
-# DeFedGL: Decoupled Federated Graph Learning for Alleviating Feature Heterogeneity
+# FedGL: Decoupled Federated Graph Learning for Alleviating Feature Heterogeneity
